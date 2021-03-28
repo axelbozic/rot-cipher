@@ -1,1 +1,0 @@
-sudo chmod +x /bin/rot
