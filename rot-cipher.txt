@@ -1,1 +1,0 @@
-wine ~/rot-cipher/rot_1.0.exe
