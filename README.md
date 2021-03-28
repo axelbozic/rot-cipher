@@ -41,10 +41,15 @@ LINUX INSTALLATION:
  *open your terminal and type the following commands in order
 
 cd ~/
+
 sudo apt-get install git
+
 git clone https://github.com/axelbozic/rot-cipher
+
 cd ~/rot-cipher
+
 sudo bash installer.sh
+
 cd ~/
 			
 
