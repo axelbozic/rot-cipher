@@ -17,36 +17,35 @@ Method 2 (not so easy): If you like to make things difficult in your life (just 
                         make a new c++ project and add the "Source.cpp" file. Next, create a header file and name it "colours.h". Copy the
 			the code from the "colours.txt" file and paste it inside the "colours.h" header file. Then, build and run.
 			
-			*If you are using visual studio 2019 for compiling the code, and want to create a standalone .exe, then watch the video
-			 linked right below. (i didn't make this video)
+  *If you are using visual studio 2019 for compiling the code, and want to create a standalone .exe, then watch the video
+   linked right below. (i didn't make this video)
 			
-			 link==> https://www.youtube.com/watch?v=AvrjQtFBJvk 
+   link==> https://www.youtube.com/watch?v=AvrjQtFBJvk 
 
 
-			*If you are using visual studio 2019 for compiling the code, and want to add an icon to the .exe file, watch the video
-			 linked right below. (i didn't make this video as well)
+  *If you are using visual studio 2019 for compiling the code, and want to add an icon to the .exe file, watch the video
+   linked right below. (i didn't make this video as well)
 			
-			 link==> https://www.youtube.com/watch?v=5XI2SflPh78
+   link==> https://www.youtube.com/watch?v=5XI2SflPh78
 			 
-			 You can use the "rot icon.ico" file as your icon or you can use a custom picture, convert it to .png or .ico and use that
-		         as your icon.
+   You can use the "rot icon.ico" file as your icon or you can use a custom picture, convert it to .png or .ico and use that as your icon.
 
 
-                        note: In method 2, the instructions that have an asterisk before them are not mandatory for the program to run. If a standalone .exe
-			      of the program is not made, it would still run perfectly, but would be dependant on the project components to run.
+   note: In method 2, the instructions that have an asterisk before them are not mandatory for the program to run. If a standalone .exe
+   of the program is not made, it would still run perfectly, but would be dependant on the project components to run.
 
 
 
 LINUX INSTALLATION:
 
-			*open your terminal and type the following commands in order
+ *open your terminal and type the following commands in order
 
-			cd ~/
-			sudo apt-get install git
-			git clone https://github.com/axelbozic/rot-cipher
-			cd ~/rot-cipher
-			sudo bash installer.sh
-			cd ~/
+cd ~/
+sudo apt-get install git
+git clone https://github.com/axelbozic/rot-cipher
+cd ~/rot-cipher
+sudo bash installer.sh
+cd ~/
 			
 
 
