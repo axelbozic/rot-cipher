@@ -1,1 +1,1 @@
-sudo apt-get install wine-stable && mv rot-cipher.txt rot && sudo mv ~/rot-cipher/rot /bin/ && cd /bin/ && sudo chmod +x /bin/rot
+mv rot-cipher.txt rot && sudo mv ~/rot-cipher/rot /bin/ && cd /bin/ && sudo chmod +x /bin/rot
