@@ -38,7 +38,10 @@ Method 2 (not so easy): If you like to make things difficult in your life (just 
 
 LINUX INSTALLATION:
 
- *open your terminal and type the following commands in order
+**works only with debian based systems 
+**must have wine installed on your system
+ 
+Open your terminal and type the following commands in order:
 
 cd ~/
 
