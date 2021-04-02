@@ -3,7 +3,8 @@ This is a Rot-N/Rot cipher, a simple character substitution based on a shift/rot
 E.g. one letter is replaced by another (always the same) that is located further (exactly N letters further) in the alphabet.
 This app can take any cipher value between 2 and 25. This is the basis of the famous Caesar code and its many variants modifying the shift.
 
-The following link explains Caesar cipher in details:
+The following link explains Caesar cipher in more detail:
+
 link==> https://en.wikipedia.org/wiki/Caesar_cipher
 
 WINDOWS INSTALLATION: 
